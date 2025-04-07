@@ -1,0 +1,73 @@
+# Car Rental Website
+
+A modern and user-friendly car rental platform built with React.js, offering a seamless experience for users to rent vehicles.
+
+## Features
+
+- **Simple Booking Process**: Easy-to-use booking form for car rentals
+- **Multiple Car Options**: Choose from a variety of vehicles including:
+  - Audi A1 S-Line
+  - VW Golf 6
+  - Toyota Camry
+  - BMW 320 ModernLine
+  - Mercedes-Benz GLK
+  - VW Passat CC
+
+- **Location Selection**: Pick-up and drop-off locations across major cities:
+  - New Delhi
+  - Mumbai
+  - Noida
+  - Faridabad
+  - Pune
+
+- **Flexible Scheduling**: Select your preferred pick-up and drop-off dates
+
+## Technology Stack
+
+- **Frontend Framework**: React.js 18.2.0
+- **Routing**: React Router DOM 6.8.0
+- **Styling**: Modern CSS with responsive design
+- **Development Tools**: React Scripts 5.0.1
+
+## Getting Started
+
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm start
+   ```
+4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser
+
+## Project Structure
+
+```
+car-rental-website/
+├── src/
+│   ├── components/     # React components
+│   ├── images/        # Image assets
+│   └── styles/        # CSS styles
+├── public/            # Static files
+└── package.json       # Project dependencies
+```
+
+## Features in Detail
+
+### Booking Form
+- Car type selection
+- Location selection (pick-up and drop-off)
+- Date and time selection
+- Simple and intuitive user interface
+
+### User Experience
+- Clean and modern design
+- Responsive layout for all devices
+- Fast and efficient booking process
+- Clear error handling and validation
+
+## Contributing
+
+Feel free to submit issues and enhancement requests.
